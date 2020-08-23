@@ -1,4 +1,4 @@
 # myportfolioote
 
-about 
-  'its Web Developer Portfolios site 
+
+  it's Web Developer Portfolios site 
