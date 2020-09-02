@@ -2,7 +2,6 @@ from django.db import models
 
 # Create your models here.
 
-class servises:
-    id : int
-    name :str
-    desc : str 
+class servises(models.Model):
+    name = models.CharField(max_length=100)
+    desc = models.TextField() 
